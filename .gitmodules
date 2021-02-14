@@ -12,7 +12,7 @@
 	url = https://github.com/melowntech/libdbglog.git
 [submodule "externals/libgeo"]
 	path = externals/libgeo
-	url = https://github.com/melowntech/libgeo.git
+	url = https://github.com/ExploreWilder/libgeo.git
 [submodule "externals/libgeometry"]
 	path = externals/libgeometry
 	url = https://github.com/melowntech/libgeometry.git
