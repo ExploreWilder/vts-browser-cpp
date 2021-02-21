@@ -33,7 +33,7 @@
 	url = https://github.com/melowntech/libmath.git
 [submodule "externals/libutility"]
 	path = externals/libutility
-	url = https://github.com/melowntech/libutility.git
+	url = https://github.com/ExploreWilder/libutility.git
 [submodule "externals/vts-libs"]
 	path = externals/vts-libs
 	url = https://github.com/melowntech/vts-libs.git
